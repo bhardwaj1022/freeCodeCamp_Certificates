@@ -1,3 +1,5 @@
+# Responsive Web Design Certificate #
+
 This is the freeCodeCamp's Responsive Web Design Certificate.
 
 In order to achieve this certificate, we are required to complete 5 major projects and hundreds of small challenges.
