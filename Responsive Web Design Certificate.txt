@@ -1,4 +1,9 @@
-Link to my freeCodeCamp Responsive Web Design Certificate.
-This link also shows the projects required to be completed to achieve certificate. 
+# Responsive Web Design Certificate #
+
+This is the freeCodeCamp's Responsive Web Design Certificate.
+
+In order to achieve this certificate, we are required to complete 5 major projects and hundreds of small challenges.
+
+This link shows the certificate along with the projects required to be completed to achieve certificate. 
 
 https://www.freecodecamp.org/certification/fccc125c80d-31a8-45e5-987e-b0c90fea41a3/responsive-web-design
